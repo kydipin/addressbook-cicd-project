@@ -8,6 +8,7 @@ designed. Please note this example uses and requires Java 8 to work..
 test entry
 Test entry two
 TEST ENTRY THREE
+FOURTH CHNAGE
 
 ![Addressbook Screenshot](addressbook_screenshot.png "Addressbook Screenshot")
 
